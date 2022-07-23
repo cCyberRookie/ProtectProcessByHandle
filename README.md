@@ -1,1 +1,1 @@
-# ProtectProcessByHandle
+# 一种通过句柄降权来保护进程不被读写的方式
